@@ -10,11 +10,8 @@
 7. [M3 Pi: Raspberry Pi OBD-II Touchscreen Car Computer](https://projects-raspberry.com/m3-pi-raspberry-pi-obd-ii-touchscreen-car-computer/)
 
 ## Hardware
-1. [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible)
-2. [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield)
-3. 
 
-| Items       | Quantity    |
-| ----------- | ----------- |
-| [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
-| [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
+| No | Items       | Quantity    |
+| -- | ----------- | ----------- |
+| 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
+| 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
