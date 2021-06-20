@@ -8,6 +8,8 @@
 5. [Car to Arduino Communication: CAN Bus Sniffing and Broadcasting With Arduino](https://www.instructables.com/CAN-Bus-Sniffing-and-Broadcasting-with-Arduino/)
 6. [Python-OBD](https://python-obd.readthedocs.io/en/latest/Connections/)
 7. [M3 Pi: Raspberry Pi OBD-II Touchscreen Car Computer](https://projects-raspberry.com/m3-pi-raspberry-pi-obd-ii-touchscreen-car-computer/)
+8. [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+9. [Extended Syntax](https://www.markdownguide.org/extended-syntax/#fnref:1)
 
 ## Hardware
 
@@ -15,3 +17,5 @@
 | -- | ----------- | ----------- |
 | 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
 | 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
+
+![Philadelphia's Magic Gardens. This place was so cool!](/home/khairul/Scripts/poor-man-CAN/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Philadelphia's Magic Gardens")
