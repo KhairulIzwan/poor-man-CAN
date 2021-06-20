@@ -18,4 +18,4 @@
 | 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
 | 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
 
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Philadelphia's Magic Gardens")
+![Maker UNO Edu Kit (Arduino Compatible](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible")
