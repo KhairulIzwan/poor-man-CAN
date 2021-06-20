@@ -13,10 +13,12 @@
 
 ## Hardware
 
-| No | Items       | Quantity    |
-| -- | ----------- | ----------- |
-| 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
-| 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
+| No | Items       | Quantity    | Price (Unit) |
+| -- | ----------- | ----------- | 
+| 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 | RM49.90 |
+| 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 | RM50.83	|
+| 3 | [Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://shopee.com.my/Car-OBD2-16-Pin-to-DB9-9-pin-Serial-Port-RS232-Adapter-Cable-i.138610561.2437925166) | 1 | RM15.86 |
+| 4 | [Autool Car Obd2 USB Interface Scanner ELM327](https://shopee.com.my/Autool-Car-Obd2-USB-Interface-Scanner-ELM327-i.130188002.6514727716) | 1 | RM20.90 |
 
 ![Maker UNO Edu Kit (Arduino Compatible)](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible)")
 
