@@ -14,7 +14,7 @@
 ## Hardware
 
 | No | Items       | Quantity    | Price (Unit) |
-| -- | ----------- | ----------- | 
+| -- | ----------- | ----------- | ------------ |
 | 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 | RM49.90 |
 | 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 | RM50.83	|
 | 3 | [Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://shopee.com.my/Car-OBD2-16-Pin-to-DB9-9-pin-Serial-Port-RS232-Adapter-Cable-i.138610561.2437925166) | 1 | RM15.86 |
