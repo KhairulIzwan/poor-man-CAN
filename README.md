@@ -20,10 +20,12 @@
 | 3 | [Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://shopee.com.my/Car-OBD2-16-Pin-to-DB9-9-pin-Serial-Port-RS232-Adapter-Cable-i.138610561.2437925166) | 1 | RM15.86 |
 | 4 | [Autool Car Obd2 USB Interface Scanner ELM327](https://shopee.com.my/Autool-Car-Obd2-USB-Interface-Scanner-ELM327-i.130188002.6514727716) | 1 | RM20.90 |
 
-![Maker UNO Edu Kit (Arduino Compatible)](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible)")
+<!--### Image-->
 
-![Elecfreaks CAN-BUS Shield](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/SHIELD-CAN-BUS-800x800.jpg "Elecfreaks CAN-BUS Shield")
+<!--![Maker UNO Edu Kit (Arduino Compatible)](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible)")-->
 
-![Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/obd2serial.jpeg "Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable")
+<!--![Elecfreaks CAN-BUS Shield](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/SHIELD-CAN-BUS-800x800.jpg "Elecfreaks CAN-BUS Shield")-->
 
-![Autool Car Obd2 USB Interface Scanner ELM327](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/Obd2-USB-Interface-Scanner-ELM327.jpeg "Autool Car Obd2 USB Interface Scanner ELM327")
+<!--![Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/obd2serial.jpeg "Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable")-->
+
+<!--![Autool Car Obd2 USB Interface Scanner ELM327](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/Obd2-USB-Interface-Scanner-ELM327.jpeg "Autool Car Obd2 USB Interface Scanner ELM327")-->
