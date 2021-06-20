@@ -18,4 +18,6 @@
 | 1 | [Maker UNO Edu Kit (Arduino Compatible)](https://my.cytron.io/p-maker-uno-edu-kit-arduino-compatible) | 2 |
 | 2 | [Elecfreaks CAN-BUS Shield](https://my.cytron.io/p-elecfreaks-can-bus-shield) | 2 |
 
-![Maker UNO Edu Kit (Arduino Compatible](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible")
+![Maker UNO Edu Kit (Arduino Compatible)](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible)")
+
+![Elecfreaks CAN-BUS Shield](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/SHIELD-CAN-BUS-800x800.jpg "Elecfreaks CAN-BUS Shield")
