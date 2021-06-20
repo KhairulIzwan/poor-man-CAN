@@ -23,3 +23,7 @@
 ![Maker UNO Edu Kit (Arduino Compatible)](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/KIT-MAKER-UNO-EDU-05-800x800.jpeg "Maker UNO Edu Kit (Arduino Compatible)")
 
 ![Elecfreaks CAN-BUS Shield](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/SHIELD-CAN-BUS-800x800.jpg "Elecfreaks CAN-BUS Shield")
+
+![Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/obd2serial.jpeg "Car OBD2 16-Pin to DB9 9-pin Serial Port RS232 Adapter Cable")
+
+![Autool Car Obd2 USB Interface Scanner ELM327](https://github.com/KhairulIzwan/poor-man-CAN/blob/main/img/Obd2-USB-Interface-Scanner-ELM327.jpeg "Autool Car Obd2 USB Interface Scanner ELM327")
