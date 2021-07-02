@@ -10,6 +10,19 @@
 7. [M3 Pi: Raspberry Pi OBD-II Touchscreen Car Computer](https://projects-raspberry.com/m3-pi-raspberry-pi-obd-ii-touchscreen-car-computer/)
 8. [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 9. [Extended Syntax](https://www.markdownguide.org/extended-syntax/#fnref:1)
+10. [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all)
+11. [Visual Synthesizer](https://pi.processing.org/tutorial/visual-synth/)
+12. [About python reading serial data sent by Arduino to convert bytes to str](https://www.programmersought.com/article/57543488505/)
+13. [SPRINTF() WITH ARDUINO | PRINT MULTIPLE VARIABLES TO THE SERIAL MONITOR](https://www.programmingelectronics.com/sprintf-arduino/)
+14. [Zero Padding or Leading Zeros](https://forum.arduino.cc/t/zero-padding-or-leading-zeros/72406/13)
+15. [Python Datalogger - Using pySerial to Read Serial Data Output from Arduino](https://makersportal.com/blog/2018/2/25/python-datalogger-reading-the-serial-output-from-arduino-to-analyze-data-using-pyserial)
+16. [How to connect Arduino and Python](http://arahna.de/connect-arduino-python/)
+17. [Communication with Arduino from Linux-Terminal](http://arahna.de/arduino-command-line/)
+18. [How to install and run qt-designer for python](https://askubuntu.com/questions/763877/how-to-install-and-run-qt-designer-for-python)
+19. [Qt Designer and Python: Build Your GUI Applications Faster](https://realpython.com/qt-designer-python/#connecting-signals-and-slots)
+20. [Python and PyQt: Building a GUI Desktop Calculator](https://realpython.com/python-pyqt-gui-calculator/)
+21. [Qt Examples And Tutorials](https://doc.qt.io/qt-5/qtexamplesandtutorials.html)
+
 
 ## Hardware
 
