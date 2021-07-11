@@ -47,7 +47,15 @@
 
 1. Basic CAN **Write** and **Read**
 
-```CAN Write
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```c
 /*import the necessary packages*/
 
 /*Library for using SPI Communication*/
