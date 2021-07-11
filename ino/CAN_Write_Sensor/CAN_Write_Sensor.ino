@@ -11,11 +11,17 @@ tCAN message2;
 // These constants won't change. They're used to give names to the pins used:
 const int analogInPin0 = A0;  // Analog input pin that the potentiometer is attached to
 const int analogInPin1 = A1;  // Analog input pin that the potentiometer is attached to
+const int analogInPin2 = A2;  // Analog input pin that the potentiometer is attached to
+const int analogInPin3 = A3;  // Analog input pin that the potentiometer is attached to
 
 int sensorValue0 = 0;        // value read from the pot
 int outputValue0 = 0;        // value output to the PWM (analog out)
 int sensorValue1 = 0;        // value read from the pot
 int outputValue1 = 0;        // value output to the PWM (analog out)
+int sensorValue2 = 0;        // value read from the pot
+int outputValue2 = 0;        // value output to the PWM (analog out)
+int sensorValue3 = 0;        // value read from the pot
+int outputValue3 = 0;        // value output to the PWM (analog out)
 
 /*put your setup code here, to run once*/
 void setup() 
@@ -42,9 +48,13 @@ void loop()
   // read the analog in value:
   sensorValue0 = analogRead(analogInPin0);
   sensorValue1 = analogRead(analogInPin1);
+  sensorValue2 = analogRead(analogInPin2);
+  sensorValue3 = analogRead(analogInPin3);
   // map it to the range of the analog out:
   outputValue0 = map(sensorValue0, 0, 1023, 0, 255);
   outputValue1 = map(sensorValue1, 0, 1023, 0, 255);
+  outputValue2 = map(sensorValue2, 0, 1023, 0, 255);
+  outputValue3 = map(sensorValue3, 0, 1023, 0, 255);
   
   message1.id = 0x631; //formatted in HEX
   
@@ -58,8 +68,8 @@ void loop()
   message1.data[3] = 0xFF; //formatted in HEX
   message1.data[4] = 0x00;
   message1.data[5] = 0x40;
-  message1.data[6] = 0x40;
-  message1.data[7] = outputValue0;
+  message1.data[6] = outputValue0;
+  message1.data[7] = outputValue1;
 
   message2.id = 0x632; //formatted in HEX
   
@@ -73,8 +83,8 @@ void loop()
   message2.data[3] = 0x00; //formatted in HEX
   message2.data[4] = 0xFF;
   message2.data[5] = 0x30;
-  message2.data[6] = 0x05;
-  message2.data[7] = outputValue1;
+  message2.data[6] = outputValue2;
+  message2.data[7] = outputValue3;
   
   mcp2515_bit_modify(CANCTRL, (1<<REQOP2)|(1<<REQOP1)|(1<<REQOP0), 0);
   

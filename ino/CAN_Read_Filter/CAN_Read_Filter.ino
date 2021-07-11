@@ -35,16 +35,16 @@ void setup()
   }
   
   Serial.begin(9600); // For debug use
-  Serial.println("CAN Read - Testing receival of CAN Bus message");  
+//  Serial.println("CAN Read - Testing receival of CAN Bus message");  
 //  delay(1000);
   
   if(Canbus.init(CANSPEED_500))  //Initialise MCP2515 CAN controller at the specified speed
   {
-    Serial.println("CAN Init ok");  
+//    Serial.println("CAN Init ok");  
   }
   else
   {
-    Serial.println("Can't init CAN");  
+//    Serial.println("Can't init CAN");  
   }
   
 //  delay(1000);
@@ -57,9 +57,23 @@ void loop()
   {
     if (mcp2515_get_message(&message)) 
   	{
+      Serial.print("ID: ");
+      Serial.print(message.id,HEX);
+      Serial.print("\t");
+      
+      Serial.print("Data: ");
+      Serial.print(message.header.length,DEC);
+      Serial.print("\t");
+      
+      for(int i=0;i<message.header.length;i++) 
+      {  
+        Serial.print(message.data[i], HEX);
+        Serial.print("\t");
+      }
+      
       if(message.id==0x631)
       {
-        ledLevel0 = map(message.data[7], 0, 5, 0, nrLeds); 
+        ledLevel0 = map(message.data[6], 0, 5, 0, nrLeds); 
 //        ledLevel1 = map(message.data[7], 0, 255, 0, nrLeds); 
         
         for (int led0 = 0; led0 < nrLeds; led0++)
@@ -88,7 +102,7 @@ void loop()
       else if(message.id==0x632)
       {
 //        ledLevel0 = map(message.data[6], 0, 100, 0, nrLeds); 
-        ledLevel1 = map(message.data[7], 0, 5, 0, nrLeds); 
+        ledLevel1 = map(message.data[7], 0, 255, 0, nrLeds); 
         
 //        for (int led0 = 0; led0 < nrLeds; led0++)
 //        {
@@ -113,6 +127,7 @@ void loop()
           }
         }
       }
+      Serial.println("");
     }
   }
 }
