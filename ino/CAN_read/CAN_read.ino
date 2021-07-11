@@ -15,7 +15,7 @@ MCP2515 mcp2515(10);
 /*put your setup code here, to run once:*/
 void setup() 
 {
-	Serial.begin(115200);
+	Serial.begin(9600);
 
 	mcp2515.reset();
 	mcp2515.setBitrate(CAN_1000KBPS,MCP_16MHZ);
